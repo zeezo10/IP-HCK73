@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const RequestRecipe = axios.create({
-    // baseURL : "184.73.49.203"
+    // baseURL : "https://ip.visionaryvibes.site"
     baseURL : "http://localhost:3000"
 })
 
